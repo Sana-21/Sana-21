@@ -62,7 +62,4 @@
 
 ---
 
-**Fun and Creative Addition:**
-
-Check out this [cool contribution snake](https://github.com/Platane/snk) that shows my GitHub contributions in a fun way! 🐍
 
