@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sana Welcome to my GitHub!
 ---
 
-![Fun Banner](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Fun Banner](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ---
 
@@ -23,7 +23,6 @@
 
 ### 📊 Statistics
 
-#### ![Sana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sana-21&show_icons=true&theme=radical)
 
 #### ![Sana's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sana-21&theme=radical)
 
