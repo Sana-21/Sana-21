@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sana Welcome to my GitHub!
 ---
 
-![Fun Banner](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Fun Banner](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ---
 
