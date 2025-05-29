@@ -12,7 +12,7 @@
 - Artificial Intelligence
 - Data Analysis and Visualization
 - Information Security
-
+ac
 ---
 
 ### 📫 How to reach me:
@@ -27,6 +27,9 @@
 #### ![Sana's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sana-21&theme=radical)
 
 #### ![Sana's GitHub Contribution Globe](https://github-contribution-globe.vercel.app/?user=Sana-21)
+
+### ![Custom Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sana-21&layout=compact&langs_count=8&hide=php,html,css&theme=radical)
+
 
 ---
 
