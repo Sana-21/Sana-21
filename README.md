@@ -28,7 +28,6 @@ ac
 
 #### ![Sana's GitHub Contribution Globe](https://github-contribution-globe.vercel.app/?user=Sana-21)
 
-### ![Custom Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sana-21&layout=compact&langs_count=8&hide=php,html,css&theme=radical)
 
 
 ---
