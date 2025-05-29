@@ -12,7 +12,6 @@
 - Artificial Intelligence
 - Data Analysis and Visualization
 - Information Security
-ac
 ---
 
 ### 📫 How to reach me:
