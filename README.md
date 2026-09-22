@@ -10,7 +10,7 @@ I mainly work with **Node.js, Express.js, JavaScript, PHP, Laravel, MySQL, Mongo
 
 ---
 <p align="center">
-![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" />
 </p>
 
 ---
@@ -41,22 +41,16 @@ I mainly work with **Node.js, Express.js, JavaScript, PHP, Laravel, MySQL, Mongo
 ### 🛠️ Languages & Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,php,laravel,python" />
-
+<br>
 <img src="https://skillicons.dev/icons?i=react,html,css,mysql,mongodb,firebase" />
-
+<br>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,googlecloud" />
 </p>
 
 ### 🌱 Currently Learning
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws" />
-
-
----
-
-### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sana-21&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sana-21&layout=compact&theme=radical&hide_border=true" height="180"/> </p>
-
+</p>
 ---
 
 ### 🌎 My GitHub Activity
