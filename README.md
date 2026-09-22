@@ -9,8 +9,9 @@ I’m a Software Engineer who enjoys building **web applications, backend servic
 I mainly work with **Node.js, Express.js, JavaScript, PHP, Laravel, MySQL, MongoDB, React.js, and Firebase/Firestore**.
 
 ---
-
+<p align="center">
 ![Coding](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+</p>
 
 ---
 
@@ -38,13 +39,13 @@ I mainly work with **Node.js, Express.js, JavaScript, PHP, Laravel, MySQL, Mongo
 ---
 
 ### 🛠️ Languages & Tools
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,php,laravel,python" />
 
 <img src="https://skillicons.dev/icons?i=react,html,css,mysql,mongodb,firebase" />
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,googlecloud" />
-
+</p>
 
 ### 🌱 Currently Learning
 
@@ -54,24 +55,13 @@ I mainly work with **Node.js, Express.js, JavaScript, PHP, Laravel, MySQL, Mongo
 ---
 
 ### 📊 GitHub Stats
-
-![Sana's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sana-21\&theme=radical)
-
-![Sana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sana-21\&show_icons=true\&theme=radical\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sana-21\&layout=compact\&theme=radical\&hide_border=true)
-
----
-
-### 🐍 Watch My Contributions Get Eaten
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sana-21&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sana-21&layout=compact&theme=radical&hide_border=true" height="180"/> </p>
 
 ---
 
 ### 🌎 My GitHub Activity
 
-![Sana's GitHub Contribution Globe](https://github-contribution-globe.vercel.app/?user=Sana-21)
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Sana-21&theme=radical&hide_border=true" /> </p>
 
 ---
 
