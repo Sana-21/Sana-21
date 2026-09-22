@@ -39,8 +39,6 @@ I mainly work with **Node.js, Express.js, JavaScript, PHP, Laravel, MySQL, Mongo
 
 ### 🛠️ Languages & Tools
 
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,php,laravel,python" />
 
 <br><br>
@@ -51,7 +49,6 @@ I mainly work with **Node.js, Express.js, JavaScript, PHP, Laravel, MySQL, Mongo
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,googlecloud" />
 
-</p>
 
 ### 🌱 Currently Learning
 
