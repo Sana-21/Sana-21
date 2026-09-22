@@ -41,22 +41,15 @@ I mainly work with **Node.js, Express.js, JavaScript, PHP, Laravel, MySQL, Mongo
 
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,php,laravel,python" />
 
-<br><br>
-
 <img src="https://skillicons.dev/icons?i=react,html,css,mysql,mongodb,firebase" />
-
-<br><br>
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,googlecloud" />
 
 
 ### 🌱 Currently Learning
 
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws" />
 
-</p>
 
 ---
 
